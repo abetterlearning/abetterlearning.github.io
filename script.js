@@ -1,4 +1,4 @@
-const MAX_CARD_AVAILABLE = '15';
+const MAX_CARD_AVAILABLE = '198';
 
 let maxCardNo = localStorage.getItem("maxCard")? localStorage.getItem("maxCard"):0 ;
 
